@@ -209,6 +209,7 @@ img{
 
 .footer {
     position: fixed;
+    height: 60px;
     left: 0;
     bottom: 10px;
     width: 100%;
