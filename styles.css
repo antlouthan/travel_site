@@ -209,13 +209,13 @@ img{
 
 .footer {
     position: fixed;
-    height: 30px;
     left: 0;
     bottom: 10px;
     width: 100%;
     color: white;
-    text-align: center;
+    text-align:center;
     background-color: black;
+    vertical-align: top;
   }
 
   .our_team {
